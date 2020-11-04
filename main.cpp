@@ -78,7 +78,6 @@ public:
 };
 
 
-//for old compilers ; g++ -std=c++0x 365324.cpp 
 
 //constructer
 template < class P > Matrix < P >::Matrix ()
